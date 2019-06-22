@@ -6,7 +6,7 @@ A django website for registering, receiving payment through PayPal, and sending 
 1. Add to Environment Variables the Path C:\Python27 [tutorial](https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/)
 1. Downlaod pip 
     1. Command line way: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-    1. A different way[tutorial](https://www.liquidweb.com/kb/install-pip-windows/)
+    1. A different way [tutorial](https://www.liquidweb.com/kb/install-pip-windows/)
 1. Install pip
     1. cmd line: python get-pip.py
 1. Add to Environment Variables the path C:\Python27\Scripts (same way as above)
