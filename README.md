@@ -22,5 +22,5 @@ A django website for registering, receiving payment through PayPal, and sending 
 1. Stop server: ctrl c for linux/mac
 1. python manage.py makemigrations 
 1. python manage.py migrate 
-1. python manage.py createsuperuser {- remember the username and password -]
+1. python manage.py createsuperuser ` remember the username and password `
 1. python manage.py runserver
