@@ -19,8 +19,8 @@ A django website for registering, receiving payment through PayPal, and sending 
 1. pip install -r requirements.txt
 1. in personal_code directory the local_settings_copy remove the _copy from the file name
 1. python manage.py runserver
-1. ctrl c 
+1. Stop server: ctrl c for linux/mac
 1. python manage.py makemigrations 
 1. python manage.py migrate 
-1. python manage.py createsuperuser `remember the username and password`
+1. python manage.py createsuperuser {- remember the username and password -]
 1. python manage.py runserver
